@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zav:home|Door43 (zav)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zav|d43-zav repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zav/archive/master.zip|d43-zav.zip]]
+
+**Recent Changes**
+{{changes>ns = zav}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zav|Ethnologue data]]
+
